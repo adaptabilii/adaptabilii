@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adaptabilii
+- 👀 I’m interested in a whole bunch of stuff including quantum computing, softwear design and developement, AI, etc.
+- 🌱 I’m currently learning Qiskit, python, and javascript (I know, me not knowing javascript is indeed embarrassing).
+- 💞️ I’m looking to collaborate on any projects that the creator is genuinely excited about, and has a grand vision.
+- 📫 How to reach me: use your imagination and get creative.
